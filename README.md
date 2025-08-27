@@ -1,16 +1,7 @@
 # better_white_noise
 
-A new Flutter project.
+Flutter project
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+White noise app for sleeping. Contains multiple audio tracks with sliders to adjust each volume individually.
+Can set a timer to turn off sound after a certain amount of time.
+Runs in the background, and remembers set volumes when closing and reopening the app.
